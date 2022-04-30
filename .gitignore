@@ -4,5 +4,6 @@ __pychache__
 myvenv
 db.sqlite3
 postgressql
-/static
+
+/assets
 .DS_Store
