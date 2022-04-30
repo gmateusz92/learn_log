@@ -1,9 +1,0 @@
-*.pyc
-*~
-__pychache__
-myvenv
-db.sqlite3
-postgressql
-
-/assets
-.DS_Store
